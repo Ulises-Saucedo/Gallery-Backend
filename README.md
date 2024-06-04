@@ -1,9 +1,14 @@
-## Install project
+# Gallery API
 
-```
-npm i
-```
+## Description
+This is a gallery application inspired by Pinterest, allowing users to upload and share images with others.
 
-## Root
+## Features
+- Upload images to create visual boards.
+- Like, comment, and share images with other users.
+- Explore a curated collection of images.
 
-Finally open the .env.dist file and change its extension only to .env, and then configure its SECRET_KEY.
+## Configuration
+- Configure environment variables:
+  - Rename the .env.dist file to .env.
+  - Open the .env file and configure the SECRET_KEY variable.
